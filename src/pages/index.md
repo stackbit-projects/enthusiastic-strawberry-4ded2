@@ -5,9 +5,10 @@ sections:
     type: section_hero
     title: CBA Consult Section
     image: images/5.jpg
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: >
+      Business Services mentioned in this section can be reviewed and commented
+      on the designated pages. We recommend you to use the docs or if you prefer
+      the blog to find the latest resources.
     actions:
       - label: Get Started
         url: /docs
