@@ -1,15 +1,6 @@
 ---
 title: Home
 sections:
-  - section_id: hero
-    type: section_hero
-    title: CBA Consult Section
-    image: images/cba header image.PNG
-    content: >
-      > ###### Business Services mentioned in this section can be reviewed and
-      commented on the designated pages. We recommend you to use the docs or if
-      you prefer the blog to find the latest resources.
-    actions: []
   - section_id: features
     type: section_grid
     col_number: three
